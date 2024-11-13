@@ -49,7 +49,7 @@ This project provides an analysis of movies and TV shows available in **Czechia*
    - Create a new bucket:
      - Choose a bucket name: `raw-platform-data`.
      - Select a region.
-     - Set the storage class (e.g., Standard).
+     - Use the default bucket configuration.
    - Upload source datasets into a bucket.
 
 5. **Run the script**:
